@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Devops Portfolio - https://gitlab.com/users/er.shankkalra/projects.<br>👯 I’m looking to collaborate on devops testing.<br>💬 Ask me about Automation Best Practice.<br>⚡ Fun fact - I like Small Wonder TV Show :)<br>
+🔭 [![Devops Portfolio]](https://gitlab.com/users/er.shankkalra/projects) <br>👯 I’m looking to collaborate on devops testing.<br>💬 Ask me about Automation Best Practice.<br>⚡ Fun fact - I like Small Wonder TV Show :)<br>
 
 
 ## 🌐 Socials:
